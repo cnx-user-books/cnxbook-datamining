@@ -1,0 +1,14 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>clustering</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>2060b6cb-7bc4-4b77-b196-c29bb166d371</md:uuid>
+</metadata>
+  <content>
+    <para id="delete_me">clustering
+
+key words : distance function, dissimilariy matrix, hierarchical clustering, partitioning clustering method, K-Mean, PAM, single linkage, average linkage.
+
+</para><para id="element-833">Clustering as the name suggest is a technique of making groups or clusters from a set of objects.
+When and where to use clustering, the biggest question to any one learning the subject for the first time. Before taking the subject forward lets look into a problem or a scenario where clustering can be used to get a solution.</para><para id="element-722">An example: a bank xyz want to study its credit card customers. The bank want to study cusomer's payment record also the bank is going to offer some facilities. Its almost impossible for the bank to study every customer indivisually. So xyz managers want to group their customrs and want to study a group or its representatives</para>   
+  </content>
+  
+</document>
